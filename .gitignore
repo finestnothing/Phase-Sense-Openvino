@@ -16,3 +16,5 @@ model_files/Yolo Files/lights.json
 model_files/Yolo Files/__pycache__/client.cpython-38.pyc
 model_files/Yolo Files/__pycache__/node.cpython-38.pyc
 model_files/Yolo Files/*
+
+__pycache__
